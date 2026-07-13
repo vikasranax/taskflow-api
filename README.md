@@ -13,17 +13,6 @@ Basic CRUD - Create, Read, Update and Delete
 - Docker and docker Compose
 - Pydantic for data validation
 
-## Project structure
-
-```
-taskflow/
-├── app/
-│   ├── main.py
-│   ├── routes.py
-│   └── models.py
-├── Dockerfile
-├── docker-compose.yml
-└── requirements.txt
 ```
 
 ## How to run it
